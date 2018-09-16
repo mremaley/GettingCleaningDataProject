@@ -9,7 +9,7 @@
 
 ## Review Criteria
 1. [Tidy Data](https://github.com/mremaley/GettingCleaningDataProject/blob/master/tidyData.txt)
-2. [README](https://github.com/mremaley/GettingCleaningDataProject/edit/master/README.md)
+2. [README](https://github.com/mremaley/GettingCleaningDataProject/blob/master/README.md)
 3. [Codebook](https://github.com/mremaley/GettingCleaningDataProject/blob/master/Codebook.md)
 4. [R Script](https://github.com/mremaley/GettingCleaningDataProject/blob/master/run_analysis.R)
 5. [Github Repository](https://github.com/mremaley/GettingCleaningDataProject)
