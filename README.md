@@ -12,4 +12,4 @@
 2. [README](https://github.com/mremaley/GettingCleaningDataProject/edit/master/README.md)
 3. [Codebook](https://github.com/mremaley/GettingCleaningDataProject/blob/master/Codebook.md)
 4. [R script](https://github.com/mremaley/GettingCleaningDataProject/blob/master/run_analysis.R)
-5. [Github Repository](https://github.com/mremaley/GettingCleaningDataProject/blob/master/)
+5. [Github Repository](https://github.com/mremaley/GettingCleaningDataProject)
